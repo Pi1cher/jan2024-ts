@@ -24,3 +24,4 @@ yarn-error.log*
 
 .idea
 jan2024TS.iml
+package-lock.json
